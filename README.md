@@ -10,6 +10,7 @@ my first repository
 normal text
 
 [www.google.es](http://www.google.es "google")
+
 ![alt text](http://unizar.es/profiles/unizarwww/themes/unizar01/img/logo_uz.png "titulo de la imagen")
 
 >for the sake of the quote
@@ -31,9 +32,9 @@ if a:
 multi
 line
 code
-if a
+if(a)
 {
-a++;
+  a++;
 }
 ```
 
